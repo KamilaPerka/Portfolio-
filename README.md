@@ -5,4 +5,4 @@ My Tester's Portfolio
 My name is Kamila Perka. 
 ## Tools
 
-* Jira (https://www.atlassian.com/software/jira)
+* [Jira](https://www.atlassian.com/software/jira)
