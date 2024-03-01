@@ -15,5 +15,6 @@ My name is Kamila Perka.
 ## Certificates
 * ISTQB - No.21906
 ## Courses 
-* [Dobrekursy.it](https://dobrekursy.it/)
+* [Dobrekursy.it](https://dobrekursy.it/)- Manual Tester
+* 
   
