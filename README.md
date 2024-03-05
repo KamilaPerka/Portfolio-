@@ -2,7 +2,7 @@
 My Tester's Portfolio
 ## About Me 
 
-My name is Kamila Perka. 
+My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I graduated from Univeristy of Białystok,Poland. I have decided to lern software testing.I obtained the title of ISTQB Certified Manual Tester. My goal is to continuously broaden my testing knowlage and improve my technical skills. On this site I would like to share my all achievements.
 ## Tools
 
 * [Jira](https://www.atlassian.com/software/jira)
