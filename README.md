@@ -22,7 +22,10 @@ My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I gradu
 * [Testowanie oprogramowania-PRACA,Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
 * [Tester oprogramowania-wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 * [Testowanie oprogramowania-Materiały|Porady](https://www.facebook.com/groups/testowanie)
- 
+## Blogs read
+*[Testerka.pl](https://testerka.pl/)
+*[Testerzy.pl](https://testerzy.pl/)
+*[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## My Test Documentation for site [inwestomat.eu](https://inwestomat.eu/) 
 * [User story](https://drive.google.com/file/d/1lpL-8BWSqh2R1shiCE3lbJDDFZ7TxZSR/view?usp=drive_link)
 * [Test conditions](https://drive.google.com/file/d/1wOqHUdipKhio7Z4jpmyfK5h3hailcoc_/view?usp=drive_link)
