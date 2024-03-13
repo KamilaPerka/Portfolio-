@@ -7,6 +7,8 @@ My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I gradu
 
 * [Jira](https://www.atlassian.com/software/jira)
 * Github
+* ShareX
+* PicPik
 ## Tech Skills 
 * SCRUM
 * Software testing
@@ -16,6 +18,7 @@ My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I gradu
 * ISTQB - No.21906
 ## Courses 
 * [Dobrekursy.it](https://dobrekursy.it/)- Manual Tester
+* Testowanie oprogramowanie w praktyce 
 
 ## Groups of knowledge gathering
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
