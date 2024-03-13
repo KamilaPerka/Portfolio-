@@ -18,7 +18,9 @@ My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I gradu
 * ISTQB - No.21906
 ## Courses 
 * [Dobrekursy.it](https://dobrekursy.it/)- Manual Tester
-* Testowanie oprogramowanie w praktyce 
+* Testowanie oprogramowanie w praktyce
+* Kurs SQL od podstaw (in progress)
+* Chrome DevTools: od podstaw do eksperta (in progress)
 
 ## Groups of knowledge gathering
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
