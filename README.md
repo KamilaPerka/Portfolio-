@@ -19,8 +19,8 @@ My name is Kamila Perka.I have a Bachelor of arts in French and Spanish. I gradu
 ## Courses 
 * [Dobrekursy.it](https://dobrekursy.it/)- Manual Tester
 * Testowanie oprogramowanie w praktyce
-* Kurs SQL od podstaw (in progress)
-* Chrome DevTools: od podstaw do eksperta (in progress)
+* Kurs SQL od podstaw 
+* Chrome DevTools: od podstaw do eksperta
 
 ## Groups of knowledge gathering
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
